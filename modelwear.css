@@ -1,0 +1,154 @@
+* {
+  font-family: "poppins";
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  background-color: black;
+  color: azure;
+  gap: 5px;
+  width: 100%;
+  top: 0;
+}
+#truck {
+  color: white;
+  font-size: 10px;
+}
+.free {
+  color: white;
+  font-size: 10px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(250, 240, 206);
+  width: 100%;
+  padding: 2px;
+}
+.logo {
+  font-size: 20px;
+}
+nav {
+  display: flex;
+  gap: 20px;
+}
+.icon {
+  display: flex;
+  gap: 50px;
+}
+nav a {
+  font-size: 13px;
+  font-weight: 700;
+}
+a:hover {
+  border-bottom: 2px solid white;
+  color: rgb(125, 76, 16);
+}
+#shopping-bag {
+  position: relative;
+  margin-right: 10px;
+}
+.number {
+  position: absolute;
+  margin-top: -4px;
+  margin-right: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  height: 10px;
+  width: 10px;
+  right: 0;
+  border-radius: 50%;
+  font-size: 5px;
+  padding: 1px;
+  font-weight: 600;
+}
+.wear5 {
+  width: 300px;
+  height: 230px;
+  float: right;
+  border-radius: 20px;
+}
+.hero {
+  width: 85%;
+  margin: 0 auto;
+}
+.hero-container {
+  background-color: blanchedalmond;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 80px;
+}
+p {
+  color: black;
+}
+.wear1 {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+}
+.wear2 {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+}
+.wear3 {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+}
+.wear4 {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+}
+.wear6 {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+}
+.category {
+  justify-content: space-between;
+  display: flex;
+}
+.model-img {
+  text-align: center;
+}
+.fa-solid-general {
+  display: flex;
+  background-color: wheat;
+}
+.general {
+  display: flex;
+  background-color: rgb(230, 230, 224);
+  justify-content: space-between;
+}
+.tail {
+  display: flex;
+  justify-content: space-between;
+}
+.wear7 {
+  width: 150px;
+  height: 200px;
+}
+.wear8 {
+  width: 150px;
+  height: 200px;
+}
+.wear9 {
+  width: 150px;
+  height: 200px;
+}
+.hat {
+  position: relative;
+}
+#heart {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 130px;
+}
